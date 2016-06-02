@@ -1,0 +1,14 @@
+{
+  "name": "ClassLoader",
+  "homepage": "https://github.com/denizschmid/ClassLoader",
+  "_release": "bfaaba885e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bfaaba885e8735a40e594739cc846bdba14a4939"
+  },
+  "_source": "git://github.com/denizschmid/ClassLoader.git",
+  "_target": "*",
+  "_originalSource": "denizschmid/ClassLoader",
+  "_direct": true
+}
